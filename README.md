@@ -13,9 +13,9 @@ On the terminal
 4 go live to open in browser
 
 ## Technologies used
-1 HTML
-2 CSS
-3 Git
+1. HTML
+2. CSS
+3. Git
 
 ## Live  demo
 
