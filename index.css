@@ -7,3 +7,19 @@ nav>ul>li{
 a{
     text-decoration: none;
 }
+.together>img{
+    height: 300px;
+    width: 400px;
+    float: left;
+}
+.description{
+    text-align: center;
+    width: 400px;
+    float: left;
+
+}
+.together{
+  margin: 50px;
+  display: flex;
+}
+    
