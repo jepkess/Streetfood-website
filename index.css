@@ -1,12 +1,51 @@
 nav>ul>li{
     display: inline;
     justify-content: space-between;
-   
-    margin: 10px;
+    margin: 40px;
 } 
 a{
     text-decoration: none;
 }
+nav{
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+}
+nav>ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#streetfood{
+    margin-left:50px;
+
+  
+    text-align: justify;
+    
+
+
+}
+
+#ordernow{
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 38%;
+  
+   
+  
+}
+
+
+
+
+
+
+
+
+
+
+
 .together>img{
     height: 300px;
     width: 400px;
@@ -22,4 +61,18 @@ a{
   margin: 50px;
   display: flex;
 }
-    
+
+.email{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: center;
+}
+.email>button{
+    color: white;
+    background-color: green;
+    border: none;
+    /* display: flex;
+    align-items: center; */
+    text-align: center;
+}
