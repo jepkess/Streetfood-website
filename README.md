@@ -23,4 +23,4 @@ On the terminal
 
 
 ## License 
-
+This project is under [MIT](LICENSE.md)
