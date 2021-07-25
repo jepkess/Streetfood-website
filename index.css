@@ -1,162 +1,225 @@
-nav>ul>li{
+nav>ul>li {
     display: inline;
     justify-content: space-between;
-    margin: 40px;
-} 
-a{
-    text-decoration: none;
+    margin: 30px;
 }
-nav{
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
     /* text-align: center; */
     display: flex;
     align-items: center;
 }
-nav>ul{
+
+nav>ul {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
-#streetfood{
-    margin-left:50px;
 
-  
+#streetfood {
+    margin-left: 50px;
+
+
     text-align: justify;
-    
+
 
 
 }
 
-#ordernow{
+#ordernow {
     background-color: green;
     border: none;
     color: white;
     border-radius: 38%;
-  
-   
-  
+
+
+
 }
-.explore{
+
+.explore {
     text-align: center;
     font-size: large;
     padding: 20px;
 }
-#menu{
+
+#menu {
     color: green;
 }
-.food{
-    background-color:rgb(217, 226, 217);
-    margin: 50px;
+
+.food {
+    background-color: rgb(217, 226, 217);
+    margin: 70px;
 
 
 }
-.third{
+
+.third {
     display: flex;
     flex-direction: row;
-    justify-content:space-around;
+    justify-content:space-between;
 
 }
-.rest{
+
+.rest {
     display: flex;
-    flex-direction:row ;
-    justify-content: space-around;
+    flex-direction: row;
+    justify-content: space-between ;
 }
-.header3{
+
+.header3 {
     text-align: center;
     padding: 20px;
-    
+
 }
-#deals{
-    color: green;
+
+#deals {
+    color: #C9ECB5;
 }
-.special{
+
+.special {
     background-color: #649549;
-    margin: 70px ;
-    height: 700px;
+    margin: 70px;
+    height: 130vh;
 }
-#pizza{
+
+#pizza {
     display: flex;
     float: left;
 }
-.pack{
+
+.pack {
     color: green;
 }
-#contacts{
-    background-color:rgb(245, 222, 222) ;  
-    width: 400px; 
+
+#contacts {
+    background-color: #FFD77C;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
     margin: 70px;
-    height: 300px;
-    padding: 10px;
 }
-.header3{
+
+.header3 {
     text-align: center;
 
 }
-#us{
+
+#us {
     color: green;
 }
-.about{
-    background-color:rgb(217, 226, 217) ;
+
+.about {
+    background-color: #C9ECB5 ;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
-    margin: 40px;
+    margin: 70px;
 }
-.time{
+
+.time {
     display: flex;
     flex-direction: column;
-    margin: 10px;
+    margin: 70px;
 }
-.number{
+
+.number {
     display: flex;
     flex-direction: column;
 }
-.follow{
+
+.follow {
     display: flex;
     flex-direction: column;
 }
-.button{
+
+.button {
     display: flex;
     float: right;
     width: 70px;
     text-decoration: ivory;
+    background-color: #6CB840(light green);
 }
+
+.food {
+    background-color: rgb(219, 202, 202);
     
 
-
-
-
-
-
-
-
-
-
-
-
-.together>img{
-    height: 300px;
-    width: 400px;
-    float: left;
 }
-.description{
+
+.ibra {
     text-align: center;
-    width: 400px;
+    width: 600px;
+
+}
+.buglarname{
+    float: right;
+    background-color: white;
+    width: 200px;
+
+}
+.weight{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 20vh;
+    margin-bottom: 50px;
+    
+
+}
+.sector{
+    margin: 50px;
+}
+#container{
+    font-family: 'Poppins' ;
+    text-decoration: #EAAB1B(light orange)  #6CB840(light green);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.together>img {
+    
+
     float: left;
-
-}
-.together{
-  margin: 50px;
-  display: flex;
 }
 
-.email{
+.description {
+    text-align: center;
+    float: left;
+    width: 300vw;
+
+}
+
+.together {
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.email {
     display: flex;
     flex-direction: column;
     width: 400px;
     align-items: center;
 }
-.email>button{
+
+.email>button {
     color: white;
     background-color: green;
     border: none;
