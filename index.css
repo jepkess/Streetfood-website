@@ -69,7 +69,7 @@ nav>ul{
     color: green;
 }
 .special{
-    background-color: rgb(146, 207, 146);
+    background-color: #649549;
     margin: 70px ;
     height: 700px;
 }
@@ -94,7 +94,25 @@ nav>ul{
 #us{
     color: green;
 }
-
+.about{
+    background-color:rgb(217, 226, 217) ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    fle
+}
+.time{
+    display: flex;
+    flex-direction: column;
+}
+.number{
+    display: flex;
+    flex-direction: column;
+}
+.follow{
+    display: flex;
+    flex-direction: column;
+}
     
 
 
