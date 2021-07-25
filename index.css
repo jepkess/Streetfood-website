@@ -42,6 +42,25 @@ nav>ul{
 #menu{
     color: green;
 }
+.food{
+    background-color:rgb(217, 226, 217);
+    margin: 80px;
+
+
+}
+.third{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+
+}
+.rest{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-around;
+}
+    
+
 
 
 
