@@ -99,11 +99,13 @@ nav>ul{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    fle
+    width: 100%;
+    margin: 40px;
 }
 .time{
     display: flex;
     flex-direction: column;
+    margin: 10px;
 }
 .number{
     display: flex;
@@ -112,6 +114,12 @@ nav>ul{
 .follow{
     display: flex;
     flex-direction: column;
+}
+.button{
+    display: flex;
+    float: right;
+    width: 70px;
+    text-decoration: ivory;
 }
     
 
