@@ -78,6 +78,20 @@ nav>ul{
 .pack{
     color: green;
 }
+#contacts{
+    background-color:rgb(245, 222, 222) ;  
+    width: 400px; 
+    margin: 70px;
+    height: 300px;
+    padding: 10px;
+}
+.header3{
+    text-align: center;
+
+}
+#us{
+    color: green;
+}
 
     
 
