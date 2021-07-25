@@ -18,6 +18,7 @@ On the terminal
 3. Git
 
 ## Live  demo
+[live](https://jepkess.github.io/Streetfood-website/)
 
 
 
